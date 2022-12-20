@@ -1,0 +1,8 @@
+../Core/Src/fsm.c:30:6:Off_Buzzer	4	static
+../Core/Src/fsm.c:40:6:Pedestrian_Control	8	static
+../Core/Src/fsm.c:55:6:Delete_Pedestrian_Control	8	static
+../Core/Src/fsm.c:67:6:fsm_for_manual_1	8	static
+../Core/Src/fsm.c:88:6:fsm_for_manual_2	8	static
+../Core/Src/fsm.c:110:6:fsm_for_auto_1	8	static
+../Core/Src/fsm.c:145:6:fsm_for_auto_2	8	static
+../Core/Src/fsm.c:181:6:fsm_for_input_processing	8	static
